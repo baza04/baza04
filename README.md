@@ -25,12 +25,7 @@ Software Developer at <a href="https://alem.school/">alem school</a>
 
 **Some stats:**
 
-<a href="https://github.com/baza04">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=baza04&show_icons=true&theme=chartreuse-dark" alt="baza04's github stats" width="53.8%" />
-</a>
-<a href="https://github.com/baza04">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baza04&layout=compact&theme=dark" width="45%"/>
-</a>
+
 
 
 <!--
