@@ -10,7 +10,6 @@ Software Developer at <a href="https://alem.school/">alem school</a>
 
 [![telegram: baza04](https://img.shields.io/badge/-baza04-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/baza04)](https://t.me/baza04)
 [![Linkedin: baza04](https://img.shields.io/badge/-baza04-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baza04/)](https://www.linkedin.com/in/baza04/)
-[![](https://komarev.com/ghpvc/?username=baza04&style=flat&color=blue&label=Visitors)](https://github.com/baza04)
 
 **Languages and Tools:**
 
@@ -22,6 +21,7 @@ Software Developer at <a href="https://alem.school/">alem school</a>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="25" src="https://bashlogo.com/img/symbol/png/full_colored_dark.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
 **Some stats:**
