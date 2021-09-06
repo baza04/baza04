@@ -4,8 +4,8 @@
 
 Software Developer at <a href="https://alem.school/">alem school</a>
            
-- 🌱 I’m currently learning ReactJS, Golang and Python.
-- 🔭 I’m currently working on alem.school project
+- 🌱 I’m currently learning Golang and ReactJS.
+- 🔭 I’m currently working on alem school project
 
 
 [![telegram: baza04](https://img.shields.io/badge/-baza04-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/baza04)](https://t.me/baza04)
