@@ -4,8 +4,7 @@
 
 Software Developer at <a href="https://www.technodom.kz/">Technodom</a>
            
-- 🌱 I’m currently working with Golang and Postgres.
-- 🔭 I’m currently working on alem school project
+I’m currently working with Golang and Postgres.
 
 
 [![telegram: baza04](https://img.shields.io/badge/-baza04-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/baza04)](https://t.me/baza04)
