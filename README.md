@@ -5,7 +5,7 @@
 Software Developer at <a href="https://www.technodom.kz/">Technodom</a>
            
 I’m currently working with Golang and Postgres.
-
+Student of <a href="https://alem.school">alem school</a>.
 
 [![telegram: baza04](https://img.shields.io/badge/-baza04-blue?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/baza04)](https://t.me/baza04)
 [![Linkedin: baza04](https://img.shields.io/badge/-baza04-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/baza04/)](https://www.linkedin.com/in/baza04/)
