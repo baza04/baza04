@@ -24,12 +24,22 @@ I’m currently working with Golang and Postgres.
 **Some stats:**
 
 <a href="https://github.com/baza04">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=baza04&show_icons=true&theme=chartreuse-dark" alt="baza04's github stats" width="53.8%" />
+<picture>
+  <source align="center" width="53.8%" media="(prefers-color-scheme: dark)" srcset="github-readme-stats.vercel.app/api?username=baza04&show_icons=true&theme=chartreuse-dark">
+  <img align="center" width="53.8%" alt="baza04's github stats" src="github-readme-stats.vercel.app/api?username=baza04&show_icons=true&theme=chartreuse-dark"  />
+</picture>
+  
+ <picture>
+  <source align="center" width="45%" media="(prefers-color-scheme: dark)" srcset="github-readme-stats.vercel.app/api?username=baza04&show_icons=true&theme=chartreuse-dark">
+  <img align="center" width="53.8%" alt="baza04's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baza04&layout=compact&theme=dark" />
+</picture>
+  
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=baza04&show_icons=true&theme=chartreuse-dark" alt="baza04's github stats" width="53.8%" /> -->
 </a>
-<a href="https://github.com/baza04">
+<!-- <a href="https://github.com/baza04">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baza04&layout=compact&theme=dark" width="45%"/>
 </a>
-
+ -->
 
 <!--
 **baza04/baza04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
