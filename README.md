@@ -29,8 +29,8 @@ I’m currently working with Golang and Postgres.
   <img align="center" width="53.8%" alt="baza04's github stats" src="github-readme-stats.vercel.app/api?username=baza04&show_icons=true&theme=chartreuse-dark"  />
 </picture>
   
- <picture>
-  <source align="center" width="45%" media="(prefers-color-scheme: dark)" srcset="github-readme-stats.vercel.app/api?username=baza04&show_icons=true&theme=chartreuse-dark">
+<picture>
+  <source align="center" width="45%" media="(prefers-color-scheme: dark-default)" srcset="github-readme-stats.vercel.app/api?username=baza04&show_icons=true&theme=chartreuse-dark">
   <img align="center" width="53.8%" alt="baza04's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baza04&layout=compact&theme=dark" />
 </picture>
   
