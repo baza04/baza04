@@ -2,7 +2,7 @@
 
 ### Hi I'm Amir 
 
-Software Developer at <a href="https://www.technodom.kz/">Technodom</a>.
+Software Developer at <a href="https://www.ozon.ru/">Ozon</a>.
 
 Student of <a href="https://alem.school">alem school</a>.
 
